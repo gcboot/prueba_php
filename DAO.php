@@ -2,11 +2,7 @@
 
 require_once './parametros.php';
 
-/**
- * Description of DAO
- *
- * @author UskoKruM2010
- */
+
 class DAO {
 
     private $cadenaConexion;
